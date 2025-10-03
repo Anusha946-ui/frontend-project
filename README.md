@@ -1,9 +1,11 @@
 # frontend-project
 
+
 📝 Online Quiz Application
 
 An interactive quiz application built with HTML, CSS, and JavaScript.
 It allows users to attempt quizzes with multiple-choice questions, navigate using Previous/Next buttons, track progress with a timer and progress bar, and get immediate score.
+
 
 
 🚀 Features
@@ -19,6 +21,7 @@ Instant submission with final score display
 Responsive & modern UI design
 
 
+
 🛠️ Technologies Used
 
 HTML5 → Structure of the app
@@ -28,11 +31,18 @@ CSS3 → Styling and responsive design
 JavaScript (ES6) → Quiz logic, navigation, and score calculation
 
 
+
 📂 Project Structure
-├── index.html        # Main HTML file  
-├── style.css         # Stylesheet for design  
-├── script.js         # JavaScript logic  
-└── README.md         # Project documentation
+
+├── index.html      
+# Main HTML file  
+├── style.css       
+# Stylesheet for design  
+├── script.js       
+# JavaScript logic  
+└── README.md      
+# Project documentation
+
 
 
 ⚡ How to Run
@@ -58,6 +68,7 @@ Start the quiz and test your knowledge
 <img width="1454" height="766" alt="image" src="https://github.com/user-attachments/assets/21ffbbc2-c2fa-4a41-8c9c-8fb4a5db0b58" />
 
 <img width="1444" height="766" alt="image" src="https://github.com/user-attachments/assets/73cb657b-f41b-4c0a-981f-1e7019154ff0" />
+
 
 
 👩‍💻 Author
