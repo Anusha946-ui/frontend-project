@@ -66,18 +66,3 @@ Developed by @Anusha946-ui
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-👩‍💻 Author
-
-Developed by Anusha Yadav
