@@ -34,14 +34,10 @@ JavaScript (ES6) → Quiz logic, navigation, and score calculation
 
 📂 Project Structure
 
-├── index.html      
-# Main HTML file  
-├── style.css       
-# Stylesheet for design  
-├── script.js       
-# JavaScript logic  
-└── README.md      
-# Project documentation
+├── index.html      # Main HTML file  
+├── style.css       # Stylesheet for design  
+├── script.js       # JavaScript logic  
+└── README.md      # Project documentation
 
 
 
